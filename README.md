@@ -1,8 +1,18 @@
 pyiso8601-strict
 ================
 
-Update Version -- Simple Python module to parse ISO 8601 date strings
+## The current pip verions of this util has not been updated since 2007.  
+The package does not throws errors on a lot of parse exceptions leading to erronous data.
+I got screwed over by this and decided to fork the repository and apply all the outstanding patches.
+##
 
+
+
+***
+
+
+
+###Update Version -- Simple Python module to parse ISO 8601 date strings###
 
 
 
